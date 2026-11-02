@@ -1,5 +1,13 @@
 # @sveltejs/adapter-node
 
+## 6.0.2
+
+### Patch Changes
+
+- fix: ignore `Range` headers on `HEAD` requests for static assets ([#17602](https://github.com/sveltejs/kit/pull/17602))
+- Updated dependencies:
+  - @sveltejs/kit@3.2.0
+
 ## 6.0.1
 
 ### Patch Changes
