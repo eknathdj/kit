@@ -1,5 +1,13 @@
 # @sveltejs/adapter-vercel
 
+## 6.3.5
+
+### Patch Changes
+
+- fix: accept every Node.js version from 26 (`nodejs27.x`, `nodejs28.x`, ...), not only even ones ([#17585](https://github.com/sveltejs/kit/pull/17585))
+
+- fix: support Node.js 26 (`nodejs26.x`) and future even Node.js versions ([#17580](https://github.com/sveltejs/kit/pull/17580))
+
 ## 6.3.4
 ### Patch Changes
 
